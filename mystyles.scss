@@ -1,0 +1,15 @@
+/*-- scss:defaults --*/
+
+// Colors
+$purple: #D4B7FF;
+$cream: #FDFBF7;
+$dark-blue: #445A71;
+
+// Base document colors
+$navbar-bg: $cream;// navbar color
+$navbar-hl: $purple; // highlight color when hovering over navbar links
+$footer-bg: $cream; // footer
+$body-color: $dark-blue; // page text 
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');

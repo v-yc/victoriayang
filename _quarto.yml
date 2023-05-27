@@ -9,11 +9,20 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - resume.qmd
+      - href: Resume.pdf
+        text: Resume
+    background: light
+  page-footer: 
+    background: light
+    left: 
+      - "Copyright 2023, Victoria Yang"
+    right: 
+      - icon: github
+        href: https://github.com/v-yc
 
 format:
   html:
-    theme: cosmo
+    theme: [morph, mystyles.scss]
     css: styles.css
     toc: true
     page-layout: full

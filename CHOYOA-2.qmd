@@ -1,0 +1,24 @@
+---
+title: "CHOYOA 2"
+format: pdf
+author: "Victoria Yang"
+date: "May 26, 2023"
+---
+
+### Link to GitHub repo:
+
+https://github.com/v-yc/victoriayang
+
+### Link to website:
+
+### Projects/ skills/ interests that I want to highlight:
+
+1.  Nereid Biomaterials
+
+    -   This is a project that I've been working on for almost a year in the Santoro Lab. The goal of the project is to isolate and analyze the genomes of marine microorganisms that develop a type of plastic called PHB.
+    -   I am planning to include a brief section on this in the About page of my website since I am not sure if pictures or any details are confidential information.
+
+2.  Hobbies!
+
+    -   I want to include some of my hobbies (art, spending time with my dogs, etc) so that people can get to know me better outside of work
+    -   I am planning to do this by incorporating a section under the Nereid Biomaterials section on the About page.

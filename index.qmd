@@ -2,7 +2,7 @@
 title: "Victoria Yang"
 image: profile.JPG
 about:
-  template: jolla
+  template: trestles
   image-shape: round
   image-width: 20em
   links:
@@ -12,4 +12,18 @@ about:
       href: mailto:victoriayang@ucsb.edu
 ---
 
-Hi! My name is Victoria, and I am a fourth-year undergraduate student pursuing a double major in microbiology and environmental studies at UC Santa Barbara. My goal is to use microbiology to innovate solutions to environmental issues, and I am currently working with Nereid Biomaterials in the Santoro Lab to create marine-degradable plastics. In my free time, I love to spend time with my dogs, hang out with friends, and play all kinds of sports!
+## Hi!
+
+My name is Victoria, and I am a fourth-year undergraduate student at UC Santa Barbara. My goal is to use microbiology to innovate solutions to environmental issues, and I am currently working with Nereid Biomaterials in the Santoro Lab to create marine-degradable plastics. In my free time, I love to spend time with my dogs, hang out with friends, and play all kinds of sports!
+
+## Education
+
+**University of California, Santa Barbara** (2019-present)
+
+Microbiology, B.S. and Environmental Studies, B.S.
+
+## Experience
+
+**Undergraduate Researcher** (2022-present)
+
+Santoro Lab, University of California, Santa Barbara
