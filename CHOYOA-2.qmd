@@ -6,10 +6,10 @@ date: "May 26, 2023"
 ---
 
 ### Link to GitHub repo:
-
 https://github.com/v-yc/victoriayang
 
 ### Link to website:
+https://v-yc.github.io/victoriayang/
 
 ### Projects/ skills/ interests that I want to highlight:
 
@@ -20,5 +20,13 @@ https://github.com/v-yc/victoriayang
 
 2.  Hobbies!
 
-    -   I want to include some of my hobbies (art, spending time with my dogs, etc) so that people can get to know me better outside of work
+    -   I want to include some of my hobbies (ex: hiking) so that people can get to know me better outside of work
     -   I am planning to do this by incorporating a section under the Nereid Biomaterials section on the About page.
+    
+### Reflection
+
+The most difficult part of the assignment for me was setting up the website. I did not realize that there was an option to set up the website using the RStudio IDE so I tried to follow the instructions using the command line option. However, this was unfamiliar to me and I ran into many error messages from various issues such as the way I organized my project because I think I did some of the steps in the incorrect directory. It was also very difficult in the beginning to get used to all the different files and the different terminologies seemed intimidating (eg. quarto.yml, index.qmd). However, after I realized there was a different set of instructions for using the RStudio IDE, I was able to set up the website without too much confusion.
+
+In contrast, once the website was set up, the customization and editing parts were not as difficult as I thought it would be. I thought Sam's presentation on how to change CSS and SASS defaults was particularly useful because it included clear sections of code, output, and notes, which helped me understand how the code produced the output and any additional details I have to worry about.
+
+Overall, I think this experience was useful for creating a personal portfolio to stand out as an applicant. It was also a great learning experience to use different functions in R such as working with the terminal and different types of documents.

@@ -2,4 +2,16 @@
 title: "About"
 ---
 
-About
+## My Project
+
+I am working in the Santoro Lab with the Nereid Biomaterials team to isolate and analyze the genomes of microorganisms that degrade a type of plastic called polyhydroxybutyrate (PHB).
+
+There are no available options for biodegradable plastics that degrade in ocean environments because common biodegradable plastics like PLA require high heat conditions in industrial facilities to degrade. The goal of this project is to enhance our current understanding of PHB-degrading bacteria in marine environments to ultimately develop sustainable material alternatives.
+
+## My Hobbies!
+
+Outside of work, I love to spend time outdoors and explore different hiking trails!
+
+## ![](IMG_2109.jpg){width="450"}
+
+This is one of my favorite hiking spots. It's a trail called Eagle Bluffs in Vancouver, Canada and the view at the top is amazing!

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Victoria Yang",
     "section": "",
-    "text": "My name is Victoria, and I am a fourth-year undergraduate student at UC Santa Barbara. My goal is to use microbiology to innovate solutions to environmental issues, and I am currently working with Nereid Biomaterials in the Santoro Lab to create marine-degradable plastics. In my free time, I love to spend time with my dogs, hang out with friends, and play all kinds of sports!"
+    "text": "My name is Victoria, and I am a fourth-year undergraduate student at UC Santa Barbara. My goal is to use microbiology to innovate solutions to environmental issues, and I am currently working with Nereid Biomaterials in the Santoro Lab to create marine-degradable plastics. In my free time, I love to spend time with my dogs, hang out with friends, and hike!"
   },
   {
     "objectID": "index.html#education",
@@ -25,6 +25,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am working in the Santoro Lab with the Nereid Biomaterials team to isolate and analyze the genomes of microorganisms that degrade a type of plastic called polyhydroxybutyrate (PHB).\nThere are no available options for biodegradable plastics that degrade in ocean environments because common biodegradable plastics like PLA require high heat conditions in industrial facilities to degrade. The goal of this project is to enhance our current understanding of PHB-degrading bacteria in marine environments to ultimately develop sustainable material alternatives."
+  },
+  {
+    "objectID": "about.html#my-hobbies",
+    "href": "about.html#my-hobbies",
+    "title": "About",
+    "section": "My Hobbies!",
+    "text": "My Hobbies!\nOutside of work, I love to spend time outdoors and explore different hiking trails!"
+  },
+  {
+    "objectID": "about.html#section",
+    "href": "about.html#section",
+    "title": "About",
+    "section": "",
+    "text": "This is one of my favorite hiking spots. It’s a trail called Eagle Bluffs in Vancouver, Canada and the view at the top is amazing!"
   }
 ]
