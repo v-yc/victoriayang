@@ -1,6 +1,6 @@
 ---
 title: "CHOYOA 2"
-format: pdf
+format: docx
 author: "Victoria Yang"
 date: "May 26, 2023"
 ---
